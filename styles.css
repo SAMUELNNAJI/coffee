@@ -528,7 +528,7 @@ footer {
 
         .cta-section {
             display: flex;
-            justify-content: space-evenly;
+            justify-content: center;
             margin-top: 40px;
             flex-wrap: wrap;
             gap: 30px;
