@@ -720,6 +720,20 @@ footer {
         width: 20px;
     }
 
+footer {
+    background-image: url(images/1762834556479.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
 
+     p {
+        color: #fcfbf8;
+        opacity: 80%;
+    }
+
+}
 
 }
