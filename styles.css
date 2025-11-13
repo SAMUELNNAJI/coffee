@@ -728,8 +728,10 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 30px;
+    padding: 20px;
 
      p {
+        max-width: 100%;
         color: #fcfbf8;
         opacity: 80%;
     }
