@@ -735,10 +735,13 @@ footer {
     padding-top: 60px;
 
      p {
-        font-size: 14px;
         max-width: 50%%;
         color: #fcfbf8;
         opacity: 80%;
+    }
+
+    .footerlinks{
+        flex-wrap: wrap;
     }
 
 }
